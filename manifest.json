@@ -1,6 +1,6 @@
 {
   "name": "ZeroGravityAntFarm",
-  "version_number": "0.2.5",
+  "version_number": "0.2.6",
   "website_url": "https://github.com/Sphyrna-029/Lethal-ZGAF",
   "description": "The ZGAF Mod Pack for lethal company with a focus on QOL and content.",
   "dependencies": [
@@ -36,6 +36,7 @@
     "sunnobunno-YippeeMod-1.2.2",
     "tinyhoot-ShipLoot-1.0.0",
     "CyanBlob-Motion_Tracker-1.0.0",
-    "cubly-ColourfulFlashlights-2.2.0"
+    "cubly-ColourfulFlashlights-2.2.0",
+    "SZAKI-RemoteRemastered-1.0.2"
   ]
 }
